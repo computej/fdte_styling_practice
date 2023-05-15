@@ -7,7 +7,6 @@ h1
 {
   text-shadow: -1px 5px  10px red, 5px -1px 10px blue, -5px -5px 8px green;
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-  text-decoration: underline;
 }
 h2.intro
 {
