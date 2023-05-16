@@ -8,20 +8,24 @@ h1
   text-shadow: -1px 5px  10px red, 5px -1px 10px blue, -5px -5px 8px green;
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
-h2.intro
+#intro_header
 {
   text-shadow: 0px 0px 5px goldenrod;
   /**/
 }
-h2.second_part
+#second_header
 {
   text-shadow: 0px 0px 5px violet;
 }
-p
+.intro
 {
-  font-family: 'Helvetica Nue', Helvetica, 'Open Sans',Roboto, 'Segoe UI',sans-serif;
+  font-family: Roboto, Consolas, 'Segoe UI','Open Sans',sans-serif;
 }
-.bucket_img
+.second_part
+{
+  font-family: 'Helvetica Nue', Helvetica, Arial, sans-serif;
+}
+#bucket_img
 {
   width: 300px;
 }
